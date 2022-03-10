@@ -10,11 +10,12 @@ sfa
 
 Im original develpment department:q
 
-=======
 change again from dev
 :w
 sdfsdfs
 changed by develpment:
 this is original main branch
->>>>>>> main
-this is deveopment
+
+from staging brach:qa
+
+

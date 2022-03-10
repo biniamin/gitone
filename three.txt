@@ -1,0 +1,6 @@
+dfdfd
+this is text :q
+:q
+q:
+test:x
+

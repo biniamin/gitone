@@ -1,3 +1,7 @@
 from git hub remote
 this line written from local1
 asdfsafas
+change again from dev
+:w
+sdfsdfs
+changed by develpment:

@@ -3,9 +3,17 @@ i
 dfdfdfd
 this line written from local1
 asdfsafas
+<<<<<<< HEAD
 sdfsdf
 sfa
 
 
 Im original develpment department:q
 
+=======
+change again from dev
+:w
+sdfsdfs
+changed by develpment:
+this is original main branch
+>>>>>>> main
